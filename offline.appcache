@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1489122794
+#1489171185
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -51,6 +51,10 @@ media/select.m4a
 media/select.ogg
 media/error.m4a
 media/error.ogg
+media/lose.m4a
+media/lose.ogg
+media/win.m4a
+media/win.ogg
 media/preload.m4a
 media/preload.ogg
 media/menu.m4a

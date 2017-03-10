@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1489122794,
+	"version": 1489171185,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,10 @@
 		"media/select.ogg",
 		"media/error.m4a",
 		"media/error.ogg",
+		"media/lose.m4a",
+		"media/lose.ogg",
+		"media/win.m4a",
+		"media/win.ogg",
 		"media/preload.m4a",
 		"media/preload.ogg",
 		"media/menu.m4a",
