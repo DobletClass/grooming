@@ -35,7 +35,7 @@
                 <answer id="1">Si</answer>
                 <nextdialog id="1">5</nextdialog>
                 <answer id="2">No</answer>
-                <nextdialog id="2">7</nextdialog>                
+                <nextdialog id="2">6</nextdialog>                
         </dialog>
 	 <dialog id="5" type="normal">
                 <line id="1" portrait="Yo" mood="surprised" pos="right">Ya la envie</line>
@@ -44,10 +44,8 @@
                 <line id="4" portrait="Yo" mood="neutral" pos="right">Ya voy pa</line>                             
                 <nextdialog>8</nextdialog>
         </dialog> 
-	 <dialog id="6" type="end">
+	 <dialog id="6" type="win">
         </dialog>
-	 <dialog id="7" type="end">
-        </dialog>   
-	 <dialog id="8" type="end">
+	 <dialog id="8" type="lose">
         </dialog>                          
 </MyGame>
